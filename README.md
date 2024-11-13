@@ -1,4 +1,4 @@
-## YOLO11-Class-Wise-Vehicled-detection--tracking-and-counting
+## YOLO11 Class-Wise Vehicle detection, tracking and counting
 
 ### Youtube tutorial: https://youtu.be/EfQoMB0Wvhs
 
